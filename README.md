@@ -45,7 +45,7 @@ The analysis provides insights into the most common vehicle makes, the distribut
 
 --------------------------------------------------------------------------------------------------
 
-#### My citings:
+#### References:
 https://github.com/justinpolackal/eda-automobiles/blob/master/AutomobileDataSet_PrepareData.ipynb
 
 https://www.kaggle.com/code/toramky/eda-for-automobile-dataset
